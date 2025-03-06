@@ -25,3 +25,11 @@ http://127.0.0.1:5500/Jumping%20Ball/Task.html
 ⬆️ Use the up arrow key to jump.
 
 🥳 Score points by getting the ball inside the basket.
+
+# 🪄 Installation & Setup
+
+To run this project locally,follow this steps:
+
+1. Clone the Repository
+   # 
+
