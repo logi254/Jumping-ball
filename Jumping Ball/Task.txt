@@ -1,0 +1,2 @@
+The developer creates a new project to play an funny game with the user and it was created by JavaScript code using
+the addEvent method and Animation 
