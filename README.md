@@ -31,5 +31,7 @@ http://127.0.0.1:5500/Jumping%20Ball/Task.html
 To run this project locally,follow this steps:
 
 1. Clone the Repository
-   # 
+   # git@github.com:logi254/Jumping-ball.git
+   cd jumping-ball
+2.
 
