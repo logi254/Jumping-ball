@@ -46,7 +46,7 @@
   </head>
   <body>
     <div id="message">You Got It!!!</div>
-    <div id="score">Score: 0</div>
+    <!-- <div id="score">Score: 0</div> -->
     <img
       id="basketImage"
       src="https://static.vecteezy.com/system/resources/previews/033/890/497/non_2x/basketball-hoop-illustration-transparent-background-png.png"
@@ -126,12 +126,12 @@
 
       function showMessage() {
         score++; // Increment score
-        scoreDisplay.textContent = `Score: ${score}`;
-        message.style.display = "block";
+        // scoreDisplay.textContent = `Score: ${score}`;
+        // message.style.display = "block";
         setTimeout(() => {
           message.style.display = "none";
           resetBall();
-        }, 1500);
+        }, 1);
       }
 
       // Reset ball position
@@ -185,3 +185,4 @@
     </script>
   </body>
 </html>
+
