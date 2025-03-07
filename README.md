@@ -31,7 +31,18 @@ http://127.0.0.1:5500/Jumping%20Ball/Task.html
 To run this project locally,follow this steps:
 
 1. Clone the Repository
+```
    git@github.com:logi254/Jumping-ball.git
    cd jumping-ball
-2.
+```
+2. Open the project in VS code
+ ```
+   code .
+```
+3. Right-click the index.html file and select "Open with Live Server".
+   
+4. The game will open in your default web browser.
 
+# License
+
+This project is open-source and available under the MIT License.
